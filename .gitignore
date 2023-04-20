@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# remove database
+*.bak
+CEIP Database/Database/CEIP-March10_2017.bak
