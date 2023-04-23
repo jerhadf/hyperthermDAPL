@@ -1,9 +1,50 @@
 # To set up this database
 
-### Install Azure Data Studio 
-See install link here: https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16&culture=en-us&country=us&tabs=redhat-install%2Credhat-uninstall
 
-Procedure: 
+# Instructions from Bing 
+I see. In that case, you need to install SQL Server on your Mac first before you can restore a .bak file. Here are the steps you need to follow:
+
+1. Download and install Docker Community Edition for Mac from the official Docker download page². Docker is a platform that enables you to run SQL Server as a container on your Mac.
+2. Launch Docker and increase the memory allocated to it to at least 4GB from the Preferences menu².
+3. Open a terminal window and run the following command to download the SQL Server 2019 for Linux Docker image: `sudo docker pull mcr.microsoft.com/mssql/server:2019-latest`¹².
+4. Run the following command to launch the SQL Server image in Docker: `docker run -d --name example_sql_server -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Strong.Pwd-123' -p 1433:1433 mcr.microsoft.com/mssql/server:2019-latest`¹. This will create a SQL Server instance named example_sql_server with the password Strong.Pwd-123. You can change these values as you wish, but make sure the password is strong enough.
+5. Run the following command to check the status of the SQL Server Docker container: `docker ps -a`¹. If the output says Up, the container is running successfully.
+6. Install SQL Server command-line tool by running the following command: `brew install mssql-tools`¹. This will allow you to connect to SQL Server from the terminal.
+7. Connect to SQL Server by running the following command: `sqlcmd -S localhost -U sa -P Strong.Pwd-123`¹. This will use the same credentials as you specified in step 4. You should see a prompt that says 1>.
+8. Now you can follow the steps from my previous message to restore a .bak file using Azure Data Studio.
+
+I hope this helps you with your task. If you have any questions or feedback, please let me know.
+
+Source: Conversation with Bing, 4/23/2023
+(1) How to Install SQL Server on a Mac - database.guide. https://database.guide/how-to-install-sql-server-on-a-mac/.
+(2) How to Install SQL Server on MacOS - Knowledge Base by phoenixNAP. https://phoenixnap.com/kb/install-sql-server-macos.
+(3) How to Install SQL Server Management Studio on Mac | Built In. https://builtin.com/software-engineering-perspectives/sql-server-management-studio-mac.
+(4) Installing MSSQL on MAC – Learn Sql Team. https://learnsqlteam.com/2020/05/15/installing-mssql-on-mac/.
+(5) How to Install SQL Server and Azure for Mac 2023 | Lucid Gen. https://lucidgen.com/en/how-to-install-sql-server-and-azure-for-mac/.
+
+I understand your frustration, but I'm here to help.😊
+
+To restore a .bak file in Azure Data Studio, you need to follow these steps:
+
+1. Connect to your SQL Server instance using Azure Data Studio.
+2. Click the Restore button on the Server Dashboard or right-click on an existing database and select Restore from the contextual menu¹².
+3. Select Backup file from the first dropdown menu and click the ellipses (...) to open the file explorer¹².
+4. Navigate to the folder where your .bak file is located and select it. Make sure the SQL Server service has READ permissions on the backup file¹.
+5. Enter a name for the target database in the Destination section or use the default name¹².
+6. Click Restore and wait for the process to complete. You can view the status of the restore operation in the Task History pane¹².
+7. Once the restore is complete, you can see your new database in the list of databases under your server. You might need to refresh the list by right-clicking on Databases and selecting Refresh².
+8. To test your database, you can run some queries on it or right-click on a table and select Select Top 1000².
+
+I hope this helps you with your task. If you have any questions or feedback, please let me know.
+
+Source: Conversation with Bing, 4/23/2023
+(1) Back up and restore a database - Azure Data Studio. https://learn.microsoft.com/en-us/sql/azure-data-studio/tutorial-backup-restore-sql-server?view=sql-server-ver16.
+(2) How to Restore a .bak File using Azure Data Studio - Quackit. https://www.quackit.com/sql_server/mac/how_to_restore_a_bak_file_using_azure_data_studio.cfm.
+(3) How to restore a database from bak file from azure data studio on Mac. https://stackoverflow.com/questions/53513963/how-to-restore-a-database-from-bak-file-from-azure-data-studio-on-mac.
+(4) How to Restore a SQL Server Database on a Mac using Azure Data Studio. https://database.guide/how-to-restore-a-sql-server-database-on-a-mac-using-azure-data-studio/.
+
+## 1. Install Azure Data Studio 
+See install link here: https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16&culture=en-us&country=us&tabs=redhat-install%2Credhat-uninstall
 
 ### Restoring a .bak file into a full SQL database with Docker on Mac
 Here's a step-by-step guide to restore a .bak file into a full SQL database using Docker on your Mac:
