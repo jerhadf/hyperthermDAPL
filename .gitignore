@@ -131,3 +131,6 @@ dmypy.json
 # remove database
 *.bak
 CEIP Database/Database/CEIP-March10_2017.bak
+
+# remove DS store (mac thing)
+**/.DS_Store
