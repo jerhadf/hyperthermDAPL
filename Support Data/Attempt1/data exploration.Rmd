@@ -1,0 +1,116 @@
+---
+title: "Data Exploration"
+author: "Jackeline Corona"
+date: "2023-04-27"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Exploration of Neural Networks
+
+The following results were provided by our sponsor
+
+
+
+```{r,please}
+#Import Data
+mydataframe <- read.table("NestResults.csv", header = TRUE, sep = ",")
+#Turn Won and Lost into binary values
+mydataframe$profile_result <- ifelse(mydataframe$profile_result == "won", 1, 0)
+mydataframe$pattern_result <- ifelse(mydataframe$pattern_result == "won", 1, 0)
+mydataframe$block_opt_result <- ifelse(mydataframe$block_opt_result == "won", 1, 0)
+#Get rid of any NA's in the file
+
+```
+
+## Investigating Success of Each Nesting Type
+
+```{r nesting, Investigate}
+#Compare the amount of W's and L's for each
+
+# Calculate the sum of 1's in each column
+WON_profile <- sum(mydataframe[,57] == 1)
+WON_pattern <- sum(mydataframe[,58] == 1)
+WON_block <- sum(mydataframe[,59] == 1)
+
+# Print the column sums
+print(WON_profile) #489
+print(WON_pattern) #1368
+print(WON_block) #960
+
+# Create a Barplot
+W_df <- data.frame(WON_profile, WON_pattern, WON_block)
+barplot(t(W_df[,c("WON_profile", "WON_pattern", "WON_block")]), main="Successful Nesting Type", xlab="Nesting Strategy", ylab="Frequency of Success", col=c("#1B4F72", "#16A085", "#ABEBc6"))
+legend("topright", legend=c("profile", "pattern","block"), fill=c("#1B4F72", "#16A085","#ABEBc6"))
+
+# Which rows have multuple W's
+sum_greater_than_1 <- rowSums(mydataframe[, c("profile_result", "pattern_result", "block_opt_result")]) > 1
+
+sum_greater_than_0 <- rowSums(mydataframe[, c("profile_result", "pattern_result", "block_opt_result")]) > 0
+
+sum_equal_0 <- rowSums(mydataframe[, c("profile_result", "pattern_result", "block_opt_result")]) ==0
+
+df_subset0 <- mydataframe[sum_equal_0, ] # 939
+df_subset_greater0 <- mydataframe[sum_greater_than_0, ]# 2817
+df_subset_greater1 <- mydataframe[sum_greater_than_1, ] # NA
+
+#2817 / 3756 describe a win (That's 75% of submissions)
+#Most of these are derived from pattern, then blocking, and finally profile
+
+```
+
+## Investigation Correlation Between Variables
+
+```{r correlation by size, ratio1 and 2}
+
+# Compute the point-biserial correlation coefficient
+#Very Small
+cor.test(mydataframe$vs_fill_area_ratio1, mydataframe$profile_result, method="pearson")
+cor.test(mydataframe$vs_fill_area_ratio2, mydataframe$profile_result, method="pearson")
+cor.test(mydataframe$vs_fill_area_ratio1, mydataframe$pattern_result, method="pearson")
+cor.test(mydataframe$vs_fill_area_ratio2, mydataframe$pattern_result, method="pearson")
+cor.test(mydataframe$vs_fill_area_ratio1, mydataframe$block_opt_result, method="pearson")
+cor.test(mydataframe$vs_fill_area_ratio2, mydataframe$block_opt_result, method="pearson")
+#small
+cor.test(mydataframe$s_fill_area_ratio1, mydataframe$profile_result, method="pearson") # Weak signoficant
+cor.test(mydataframe$s_fill_area_ratio2, mydataframe$profile_result, method="pearson") # W sig
+cor.test(mydataframe$s_fill_area_ratio1, mydataframe$pattern_result, method="pearson") # W sig
+cor.test(mydataframe$s_fill_area_ratio2, mydataframe$pattern_result, method="pearson") # W sig
+cor.test(mydataframe$s_fill_area_ratio1, mydataframe$block_opt_result, method="pearson") # W insignificant
+cor.test(mydataframe$s_fill_area_ratio2, mydataframe$block_opt_result, method="pearson") # W sig
+#medium
+cor(mydataframe$m_fill_area_ratio1, mydataframe$profile_result)
+cor(mydataframe$m_fill_area_ratio2, mydataframe$profile_result)
+cor(mydataframe$m_fill_area_ratio1, mydataframe$pattern_result)
+cor(mydataframe$m_fill_area_ratio2, mydataframe$pattern_result)
+cor(mydataframe$m_fill_area_ratio1, mydataframe$block_opt_result)
+cor(mydataframe$m_fill_area_ratio2, mydataframe$block_opt_result)
+#large
+cor(mydataframe$l_fill_area_ratio1, mydataframe$profile_result)
+cor(mydataframe$l_fill_area_ratio2, mydataframe$profile_result)
+cor(mydataframe$l_fill_area_ratio1, mydataframe$pattern_result)
+cor(mydataframe$l_fill_area_ratio2, mydataframe$pattern_result)
+cor(mydataframe$l_fill_area_ratio1, mydataframe$block_opt_result)
+cor(mydataframe$l_fill_area_ratio2, mydataframe$block_opt_result)
+#very large
+cor(mydataframe$vl_fill_area_ratio1, mydataframe$profile_result)
+cor(mydataframe$vl_fill_area_ratio2, mydataframe$profile_result)
+cor(mydataframe$vl_fill_area_ratio1, mydataframe$pattern_result)
+cor(mydataframe$vl_fill_area_ratio2, mydataframe$pattern_result)
+cor(mydataframe$vl_fill_area_ratio1, mydataframe$block_opt_result)
+cor(mydataframe$vl_fill_area_ratio2, mydataframe$block_opt_result)
+
+#the correlation function would not be as effective, as say the pearson method (which assumes one of the columns is binary)
+
+
+```
+
+
+
+
+
+
+
