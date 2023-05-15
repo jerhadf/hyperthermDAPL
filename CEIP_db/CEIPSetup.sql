@@ -1,0 +1,13 @@
+CREATE DATABASE CEIP
+ON PRIMARY
+(NAME = CEIP_dat,
+FILENAME = 'C:\ms\CEIPNestingAnalysis\Database\CEIP.mdf',
+SIZE = 10GB,
+MAXSIZE = UNLIMITED,
+FILEGROWTH = 10%)
+LOG ON
+(NAME = CEIP_log,
+FILENAME = 'C:\ms\CEIPNestingAnalysis\Database\CEIP_log.ldf',
+SIZE = 1GB,
+MAXSIZE = UNLIMITED,
+FILEGROWTH = 10%);
