@@ -137,3 +137,6 @@ CEIP Database/Database/CEIP-March10_2017.bak
 
 # remove csvs 
 *.csv
+
+# remove .bacpac
+*.bacpac
