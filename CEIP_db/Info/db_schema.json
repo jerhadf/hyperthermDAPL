@@ -1,0 +1,206 @@
+[
+  {
+    "TABLE_NAME": "Performance",
+    "COLUMN_NAME": "dAvgResponseTime",
+    "DATA_TYPE": "float",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Performance",
+    "COLUMN_NAME": "dAvgProcessTime",
+    "DATA_TYPE": "float",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Performance",
+    "COLUMN_NAME": "dt",
+    "DATA_TYPE": "datetime",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "PlateType",
+    "COLUMN_NAME": "ixPlateType",
+    "DATA_TYPE": "tinyint",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "PlateType",
+    "COLUMN_NAME": "sName",
+    "DATA_TYPE": "nvarchar",
+    "CHARACTER_MAXIMUM_LENGTH": 25
+  },
+  {
+    "TABLE_NAME": "Product",
+    "COLUMN_NAME": "ixProduct",
+    "DATA_TYPE": "int",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Product",
+    "COLUMN_NAME": "guidProduct",
+    "DATA_TYPE": "uniqueidentifier",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Product",
+    "COLUMN_NAME": "sName",
+    "DATA_TYPE": "nvarchar",
+    "CHARACTER_MAXIMUM_LENGTH": 128
+  },
+  {
+    "TABLE_NAME": "Product",
+    "COLUMN_NAME": "ixProductType",
+    "DATA_TYPE": "tinyint",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "ProductType",
+    "COLUMN_NAME": "ixProductType",
+    "DATA_TYPE": "tinyint",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "ProductType",
+    "COLUMN_NAME": "sName",
+    "DATA_TYPE": "nvarchar",
+    "CHARACTER_MAXIMUM_LENGTH": 20
+  },
+  {
+    "TABLE_NAME": "ProductVersion",
+    "COLUMN_NAME": "ixProductVersion",
+    "DATA_TYPE": "int",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "ProductVersion",
+    "COLUMN_NAME": "ixProduct",
+    "DATA_TYPE": "int",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "ProductVersion",
+    "COLUMN_NAME": "iMajor",
+    "DATA_TYPE": "int",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "ProductVersion",
+    "COLUMN_NAME": "iMinor",
+    "DATA_TYPE": "int",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "ProductVersion",
+    "COLUMN_NAME": "iRelease",
+    "DATA_TYPE": "int",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "ProductVersion",
+    "COLUMN_NAME": "iBuild",
+    "DATA_TYPE": "int",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Session",
+    "COLUMN_NAME": "ixSession",
+    "DATA_TYPE": "int",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Session",
+    "COLUMN_NAME": "ixEndUser",
+    "DATA_TYPE": "int",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Session",
+    "COLUMN_NAME": "ixOSVersion",
+    "DATA_TYPE": "int",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Session",
+    "COLUMN_NAME": "ixProductVersion",
+    "DATA_TYPE": "int",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Session",
+    "COLUMN_NAME": "ixLocale",
+    "DATA_TYPE": "int",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Session",
+    "COLUMN_NAME": "ixSessionType",
+    "DATA_TYPE": "int",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Session",
+    "COLUMN_NAME": "fSaved",
+    "DATA_TYPE": "tinyint",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Session",
+    "COLUMN_NAME": "guidSession",
+    "DATA_TYPE": "uniqueidentifier",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Session",
+    "COLUMN_NAME": "dtStart",
+    "DATA_TYPE": "datetime",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Session",
+    "COLUMN_NAME": "dtEnd",
+    "DATA_TYPE": "datetime",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "Session",
+    "COLUMN_NAME": "dtDataReceived",
+    "DATA_TYPE": "datetime",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "SessionType",
+    "COLUMN_NAME": "ixSessionType",
+    "DATA_TYPE": "tinyint",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "SessionType",
+    "COLUMN_NAME": "sName",
+    "DATA_TYPE": "nvarchar",
+    "CHARACTER_MAXIMUM_LENGTH": 20
+  },
+  {
+    "TABLE_NAME": "TorchSelection",
+    "COLUMN_NAME": "ixTorchSelection",
+    "DATA_TYPE": "tinyint",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "TorchSelection",
+    "COLUMN_NAME": "sName",
+    "DATA_TYPE": "nvarchar",
+    "CHARACTER_MAXIMUM_LENGTH": 25
+  },
+  {
+    "TABLE_NAME": "TorchSpacingType",
+    "COLUMN_NAME": "ixTorchSpacingType",
+    "DATA_TYPE": "tinyint",
+    "CHARACTER_MAXIMUM_LENGTH": null
+  },
+  {
+    "TABLE_NAME": "TorchSpacingType",
+    "COLUMN_NAME": "sName",
+    "DATA_TYPE": "nvarchar",
+    "CHARACTER_MAXIMUM_LENGTH": 25
+  }
+]
