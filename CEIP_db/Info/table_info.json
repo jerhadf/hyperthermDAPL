@@ -1,0 +1,158 @@
+[
+  {
+    "table_name": "ProductVersion",
+    "column_name": "ixProductVersion",
+    "data_type": "int",
+    "size": 4
+  },
+  {
+    "table_name": "ProductVersion",
+    "column_name": "ixProduct",
+    "data_type": "int",
+    "size": 4
+  },
+  {
+    "table_name": "ProductVersion",
+    "column_name": "iMajor",
+    "data_type": "int",
+    "size": 4
+  },
+  {
+    "table_name": "ProductVersion",
+    "column_name": "iMinor",
+    "data_type": "int",
+    "size": 4
+  },
+  {
+    "table_name": "ProductVersion",
+    "column_name": "iRelease",
+    "data_type": "int",
+    "size": 4
+  },
+  {
+    "table_name": "ProductVersion",
+    "column_name": "iBuild",
+    "data_type": "int",
+    "size": 4
+  },
+  {
+    "table_name": "Session",
+    "column_name": "ixSession",
+    "data_type": "int",
+    "size": 4
+  },
+  {
+    "table_name": "Session",
+    "column_name": "ixEndUser",
+    "data_type": "int",
+    "size": 4
+  },
+  {
+    "table_name": "Session",
+    "column_name": "ixOSVersion",
+    "data_type": "int",
+    "size": 4
+  },
+  {
+    "table_name": "Session",
+    "column_name": "ixProductVersion",
+    "data_type": "int",
+    "size": 4
+  },
+  {
+    "table_name": "Session",
+    "column_name": "ixLocale",
+    "data_type": "int",
+    "size": 4
+  },
+  {
+    "table_name": "Session",
+    "column_name": "ixSessionType",
+    "data_type": "int",
+    "size": 4
+  },
+  {
+    "table_name": "Session",
+    "column_name": "fSaved",
+    "data_type": "tinyint",
+    "size": 1
+  },
+  {
+    "table_name": "Session",
+    "column_name": "guidSession",
+    "data_type": "uniqueidentifier",
+    "size": 16
+  },
+  {
+    "table_name": "Session",
+    "column_name": "dtStart",
+    "data_type": "datetime",
+    "size": 8
+  },
+  {
+    "table_name": "Session",
+    "column_name": "dtEnd",
+    "data_type": "datetime",
+    "size": 8
+  },
+  {
+    "table_name": "Session",
+    "column_name": "dtDataReceived",
+    "data_type": "datetime",
+    "size": 8
+  },
+  {
+    "table_name": "SessionType",
+    "column_name": "ixSessionType",
+    "data_type": "tinyint",
+    "size": 1
+  },
+  {
+    "table_name": "SessionType",
+    "column_name": "sName",
+    "data_type": "nvarchar",
+    "size": 40
+  },
+  {
+    "table_name": "SessionType",
+    "column_name": "sName",
+    "data_type": "sysname",
+    "size": 40
+  },
+  {
+    "table_name": "TorchSelection",
+    "column_name": "ixTorchSelection",
+    "data_type": "tinyint",
+    "size": 1
+  },
+  {
+    "table_name": "TorchSelection",
+    "column_name": "sName",
+    "data_type": "nvarchar",
+    "size": 50
+  },
+  {
+    "table_name": "TorchSelection",
+    "column_name": "sName",
+    "data_type": "sysname",
+    "size": 50
+  },
+  {
+    "table_name": "TorchSpacingType",
+    "column_name": "ixTorchSpacingType",
+    "data_type": "tinyint",
+    "size": 1
+  },
+  {
+    "table_name": "TorchSpacingType",
+    "column_name": "sName",
+    "data_type": "nvarchar",
+    "size": 50
+  },
+  {
+    "table_name": "TorchSpacingType",
+    "column_name": "sName",
+    "data_type": "sysname",
+    "size": 50
+  }
+]
