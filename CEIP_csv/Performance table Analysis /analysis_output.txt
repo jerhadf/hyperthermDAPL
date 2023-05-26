@@ -1,0 +1,110 @@
+Exploratory Analysis for ixPerformance:
+-------------------------------
+Number of observations: 153663
+Mean: 76832.0
+Standard Deviation: 44358.8315445752
+Minimum: 1
+25th Percentile: 38416.5
+Median: 76832.0
+75th Percentile: 115247.5
+Maximum: 153663
+
+Exploratory Analysis for cQueued:
+-------------------------------
+Number of observations: 135134
+Mean: 7.914521881983808
+Standard Deviation: 12.731844694727096
+Minimum: 0
+25th Percentile: 0.0
+Median: 1.0
+75th Percentile: 11.0
+Maximum: 52
+
+Exploratory Analysis for cRejected:
+-------------------------------
+Number of observations: 153663
+Mean: 0.0
+Standard Deviation: 0.0
+Minimum: 0
+25th Percentile: 0.0
+Median: 0.0
+75th Percentile: 0.0
+Maximum: 0
+
+Exploratory Analysis for cProcessed:
+-------------------------------
+Number of observations: 134812
+Mean: 7.468593300299677
+Standard Deviation: 12.177697290955964
+Minimum: 0
+25th Percentile: 0.0
+Median: 1.0
+75th Percentile: 10.0
+Maximum: 50
+
+Exploratory Analysis for iQueueSize:
+-------------------------------
+Number of observations: 143458
+Mean: 2538.9902131634344
+Standard Deviation: 3256.798445160194
+Minimum: 0
+25th Percentile: 0.0
+Median: 1296.0
+75th Percentile: 4117.0
+Maximum: 12854
+
+Exploratory Analysis for iAvgSizeReceived:
+-------------------------------
+Number of observations: 151993
+Mean: 963.724072819143
+Standard Deviation: 942.5136315866644
+Minimum: 0
+25th Percentile: 0.0
+Median: 1133.0
+75th Percentile: 1680.0
+Maximum: 4242
+
+Exploratory Analysis for iAvgSizeDecoded:
+-------------------------------
+Number of observations: 148641
+Mean: 3355.8171769565597
+Standard Deviation: 3879.0361441654663
+Minimum: 0
+25th Percentile: 0.0
+Median: 2091.0
+75th Percentile: 6027.0
+Maximum: 16028
+
+Exploratory Analysis for dAvgResponseTime:
+-------------------------------
+Number of observations: 153449
+Mean: 0.5790253331669798
+Standard Deviation: 0.543421197599674
+Minimum: 0.0
+25th Percentile: 0.0
+Median: 0.691738473515386
+75th Percentile: 0.979527943193119
+Maximum: 2.45096540939907
+
+Exploratory Analysis for dAvgProcessTime:
+-------------------------------
+Number of observations: 148488
+Mean: 28.224986583899465
+Standard Deviation: 32.13354584796982
+Minimum: 0.0
+25th Percentile: 0.0
+Median: 20.00173916354365
+75th Percentile: 50.050870072800045
+Maximum: 133.710528731352
+
+Exploratory Analysis for dt:
+-------------------------------
+Number of observations: 0
+Mean: nan
+Standard Deviation: nan
+Minimum: nan
+25th Percentile: nan
+Median: nan
+75th Percentile: nan
+Maximum: nan
+
