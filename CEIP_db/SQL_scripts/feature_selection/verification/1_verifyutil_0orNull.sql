@@ -15,7 +15,7 @@ FROM dbo.Nest;
 
 SELECT * INTO #Nest_Clean -- Create the cleaned table
 FROM dbo.Nest 
-WHERE 
+WHERE
     dCropUtil != 0 AND dCropUtil IS NOT NULL AND 
     dPartArea != 0 AND dPartArea IS NOT NULL AND 
     dTrueArea != 0 AND dTrueArea IS NOT NULL AND 
