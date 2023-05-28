@@ -1,0 +1,3 @@
+SELECT COUNT(DISTINCT ixJobSummary) FROM dbo.Part;
+SELECT COUNT(DISTINCT ixJobSummary) FROM dbo.Nest;
+SELECT COUNT(DISTINCT ixSession) FROM dbo.AutoNest;
