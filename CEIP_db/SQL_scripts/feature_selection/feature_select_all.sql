@@ -1,23 +1,16 @@
 -- Define the CTE that will find the first nest (minimum ixNest) for each job (ixJobSummary)
 WITH FirstNest AS (
-    SELECT ixJobSummary, MIN(ixNest) AS MinNest
+    SELECT ixJobSummary, MIN(ixNest) AS MinNest, ixSession
     FROM dbo.Nest
-    GROUP BY ixJobSummary
-), 
--- Define the CTE that maps ixJobSummary to ixSession for the first nest of each job
-FirstNestSessions AS (
-    SELECT fn.ixJobSummary, js.ixSession
-    FROM FirstNest fn
-    INNER JOIN dbo.JobSummary js ON fn.ixJobSummary = js.ixJobSummary
+    GROUP BY ixJobSummary, ixSession
 )
 -- Main query starts here, selecting from the dbo.Part table
-SELECT 
+SELECT TOP 100000 -- limit to 100,000 rows 
     p.ixPart, 
-    p.ixJobSummary, 
+    p.ixJobSummary AS ixJobSummary_Part,  -- renamed to avoid conflict with Nest table
     p.dArea, 
     p.cRequired, 
     p.cNested, 
-    p.ixMaterial, 
     p.fExtShape, 
     p.dExtArea, 
     p.dExtBoundaryDist, 
@@ -28,28 +21,29 @@ SELECT
     p.dLgExtConArea, 
     p.dLgExtConBoundaryDist, 
     p.dLgExtConContainedDist,
-    n.ixJobSummary, 
+    n.cTimesCut,
+    n.fOutput,
     n.cParts, 
-    n.cSafeZones, 
+    n.cSafeZones,
+    n.ixPlateType, 
     n.dNestingTime, 
     n.fStrategies, 
+    n.cMaxTorches,
     n.dLength, 
     n.dWidth, 
     n.dArea, 
     n.dLengthUsed, 
     n.dWidthUsed, 
+    n.dCropUtil,
     n.dPartArea, 
     n.dTrueArea,
-    an.ixAutoNestStrategy, 
-    an.ixSession, 
-    an.sSafeZones, 
+    an.ixAutoNestStrategy,
     an.fAllPartsNested
 FROM dbo.Part p
--- Perform an INNER JOIN with the FirstNestSessions CTE, using the ixJobSummary column for the join condition
-INNER JOIN FirstNestSessions fns ON p.ixJobSummary = fns.ixJobSummary
+-- Perform an INNER JOIN with the FirstNest CTE, using the ixJobSummary column for the join condition
+INNER JOIN FirstNest fn ON p.ixJobSummary = fn.ixJobSummary
 -- Perform an INNER JOIN with the dbo.Nest table, using both ixJobSummary and ixNest for the join condition
 -- This join ensures that we only get rows from dbo.Nest that correspond to the first nest for each job
-INNER JOIN dbo.Nest n ON fns.ixJobSummary = n.ixJobSummary AND fns.MinNest = n.ixNest
--- Perform an INNER JOIN with the dbo.AutoNest table, using the ixSession from FirstNestSessions for the join condition
--- This join will add the desired columns from dbo.AutoNest without creating additional rows
-INNER JOIN dbo.AutoNest an ON fns.ixSession = an.ixSession;
+INNER JOIN dbo.Nest n ON fn.ixJobSummary = n.ixJobSummary AND fn.MinNest = n.ixNest
+-- Perform an INNER JOIN with the dbo.AutoNest table, using the ixSession column for the join condition
+INNER JOIN dbo.AutoNest an ON n.ixSession = an.ixSession;

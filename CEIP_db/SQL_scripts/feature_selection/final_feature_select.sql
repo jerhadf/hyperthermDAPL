@@ -23,4 +23,3 @@ INNER JOIN dbo.JobSummary JS ON N.ixJobSummary = JS.ixJobSummary
 
 -- Joining dbo.JobSummary with dbo.AutoNest on ixSession column to bring in AutoNest data
 INNER JOIN dbo.AutoNest AN ON JS.ixSession = AN.ixSession;
-

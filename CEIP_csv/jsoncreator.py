@@ -25,6 +25,7 @@ strategies = strategies.split('\n')
 
 # strip whitespace, formatting, tabs, remove empty lists 
 strategies = [x.strip() for x in strategies if x != '']
+
 # split each list item on \t (the tab character)
 strategies = [x.split('\t') for x in strategies]
 
@@ -38,3 +39,14 @@ print(strategies)
 # convert the dictionary to a json file
 with open('AutoNestStrategy.json', 'w') as f:
     json.dump(strategies, f, indent=4)
+    
+# CREATE A JSON FILE FOR THE MATERIAL TYPES
+# read in the material.csv file and convert it to a json file called MaterialTypes.json
+# and save it in the same directory as this script
+
+# read in the material.csv as a DataFrame
+import pandas as pd
+df = pd.read_csv('material.csv')
+
+# convert the dataframe to a dictionary
+material_types = df.to_dict(orient='records')

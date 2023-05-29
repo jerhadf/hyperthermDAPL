@@ -5,12 +5,13 @@ WITH FirstNest AS (
     GROUP BY ixJobSummary
 )
 -- Main query starts here, selecting from the dbo.Part table
-SELECT 
-    p.ixPart, 
-    p.ixJobSummary, 
-    p.dArea, 
+-- Limit to just the top 1 million results for testing
+SELECT TOP 1000000
+    p.ixPart,
+    p.ixJobSummary, -- include from the PartTable only 
+    p.dArea AS dPartTrueArea, 
     p.cRequired, 
-    p.cNested, 
+    p.cNested AS cNumNested,
     p.ixMaterial, 
     p.fExtShape, 
     p.dExtArea, 
@@ -22,18 +23,22 @@ SELECT
     p.dLgExtConArea, 
     p.dLgExtConBoundaryDist, 
     p.dLgExtConContainedDist,
-    n.ixJobSummary, 
+    n.cTimesCut,
+    n.fOutput,
     n.cParts, 
-    n.cSafeZones, 
+    n.cSafeZones,
+    n.ixPlateType, 
     n.dNestingTime, 
     n.fStrategies, 
-    n.dLength, 
-    n.dWidth, 
-    n.dArea, 
+    n.cMaxTorches,
+    n.dLength AS dSheetLength,
+    n.dWidth AS dSheetWidth,
+    n.dArea AS dSheetArea,
     n.dLengthUsed, 
     n.dWidthUsed, 
+    n.dCropUtil,
     n.dPartArea, 
-    n.dTrueArea
+    n.dTrueArea AS dSheetTrueArea
 FROM dbo.Part p
 -- Perform an INNER JOIN with the FirstNest CTE, using the ixJobSummary column for the join condition
 INNER JOIN FirstNest fn ON p.ixJobSummary = fn.ixJobSummary

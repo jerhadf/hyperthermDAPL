@@ -1,0 +1,3602 @@
+[
+    {
+        "sName": "#304 ( 22 ga ) stainless steel",
+        "dThickness": 0.03,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 ( 7 ga) stainless steel",
+        "dThickness": 0.179,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 (10 ga.) stainless steel",
+        "dThickness": 0.1345,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 (11 ga) stainless steel",
+        "dThickness": 0.1196,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 (12 ga) stainless steel",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 (12 ga.) stainless steel",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 (12 ga.) stainless steel",
+        "dThickness": 0.1196,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 (14 ga) stainless steel",
+        "dThickness": 0.075,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 (14 ga.) stainless steel",
+        "dThickness": 0.0747,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 (16 ga ) stainless steel",
+        "dThickness": 0.06,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 (16 ga) stainless steel",
+        "dThickness": 0.06,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 (18 ga)stainless steel",
+        "dThickness": 0.048,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 (20 ga)stainless steel",
+        "dThickness": 0.036,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 (22 ga) stainless steel",
+        "dThickness": 0.03,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 (28 ga) stainless steel",
+        "dThickness": 0.015,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 stainless steel",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 stainless steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 stainless steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#304 stainless steel",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#309 (16 ga ) stainless steel",
+        "dThickness": 0.06,
+        "sGrade": NaN
+    },
+    {
+        "sName": "#316l stainless steel",
+        "dThickness": 0.18,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".01 - mild steel - 20ga -",
+        "dThickness": 0.036,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".02 - mild steel - 18ga -",
+        "dThickness": 0.0478,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".03 - mild steel - 16ga -",
+        "dThickness": 0.0598,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".04 - mild steel - 14ga -",
+        "dThickness": 0.0747,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".06 - mild steel - 10ga -",
+        "dThickness": 0.1345,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".07 - mild steel -  a36 - 1/8\" -",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".08 - mild steel -  a36 - 3/16\" -",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".09 - mild steel -  a36 - 1/4\" -",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".11 - mild steel -  a36 - 3/8\" -",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".12 - mild steel -  a36 - 1/2\" -",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".13 - mild steel -  a36 - 5/8\" -",
+        "dThickness": 0.625,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".14 - mild steel -  a36 - 3/4\" -",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".15 - mild steel -  a36 - 1\" -",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".16 - mild steel -  a36 - 1-1/4\" -",
+        "dThickness": 1.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".16 - mild steel -  a36 - 1-1/8\" -",
+        "dThickness": 1.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".165 - mild steel -  a36 - 1-1/4\" -",
+        "dThickness": 1.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".17 - mild steel -  a36 - 1-3/8\" -",
+        "dThickness": 1.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".18 - mild steel -  a36 - 1-1/2\" -",
+        "dThickness": 1.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".183 annealed spring steel",
+        "dThickness": 0.183,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".41 - mild steel -  a572 - 1/4\" -",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".43 - mild steel -  a572 - 3/8\" -",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".44 - mild steel -  a572 - 1/2\" -",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".45 - mild steel -  a572 - 5/8\" -",
+        "dThickness": 0.625,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".46 - mild steel -  a572 - 3/4\" -",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".47 - mild steel -  a572 - 1\" -",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".50 - mild steel -  a572 - 1-1/2\" -",
+        "dThickness": 1.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a36 - 1\" -",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a36 - 1/2\" -",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a36 - 1/4\" -",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a36 - 1/8\" -",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a36 - 1-1/2\" -",
+        "dThickness": 1.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a36 - 1-1/4\" -",
+        "dThickness": 1.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a36 - 2\" -",
+        "dThickness": 2.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a36 - 3/16\" -",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a36 - 3/4\" -",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a36 - 3/8\" -",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a36 - 5/16\" -",
+        "dThickness": 0.3125,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a36 - 5/8\" -",
+        "dThickness": 0.625,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a572 - 1\" -",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a572 - 1/2\" -",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a572 - 1/4\" -",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a572 - 1-1/2\" -",
+        "dThickness": 1.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a572 - 1-1/4\" -",
+        "dThickness": 1.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a572 - 2\" -",
+        "dThickness": 2.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a572 - 3/4\" -",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a572 - 3/8\" -",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel -  a572 - 5/8\" -",
+        "dThickness": 0.625,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel - 1/8\" -",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel - 10ga -",
+        "dThickness": 0.1345,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel - 12ga -",
+        "dThickness": 0.1046,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel - 16ga -",
+        "dThickness": 0.0598,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel - 20ga -",
+        "dThickness": 0.036,
+        "sGrade": NaN
+    },
+    {
+        "sName": ".mild steel - 3/16\" -",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": "0.045 stainless steel",
+        "dThickness": 0.045,
+        "sGrade": NaN
+    },
+    {
+        "sName": "01 tool steel",
+        "dThickness": 0.2188,
+        "sGrade": NaN
+    },
+    {
+        "sName": "01 tool steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "01 tool steel",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "1\" carbon steel",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "1/2\" carbon steel plate",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "1/2\" stainless steel plate",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "1/2\" stainless steel plate",
+        "dThickness": 0.501,
+        "sGrade": NaN
+    },
+    {
+        "sName": "1/2-4140 steel",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "1/4\" carbon steel plate o2",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "1/4\" mild steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "1/4\" plate stainless steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "1/4\" stainless steel plate",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "10 ga hr steel",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "10 ga stainless steel",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "10 ga. carbon steel",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "10 ga. mild steel. a36 hr (48355)",
+        "dThickness": 0.1406,
+        "sGrade": NaN
+    },
+    {
+        "sName": "10 ga. stainless steel",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "10g steel w/ox",
+        "dThickness": 0.1345,
+        "sGrade": NaN
+    },
+    {
+        "sName": "10ga steel",
+        "dThickness": 0.14,
+        "sGrade": NaN
+    },
+    {
+        "sName": "11 ga. carbon steel",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "11 ga. galv. g90 steel",
+        "dThickness": 0.123,
+        "sGrade": NaN
+    },
+    {
+        "sName": "11 ga. stainless steel",
+        "dThickness": 0.12,
+        "sGrade": NaN
+    },
+    {
+        "sName": "11ga steel",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "12 ga hr50 steel",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "12 ga stainless steel",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "12 ga steel",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "12 ga. carbon steel",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "12 ga. stainless steel",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "12 gauge stainless steel",
+        "dThickness": 0.105,
+        "sGrade": "304 ASTM A240"
+    },
+    {
+        "sName": "13 ga. carbon steel",
+        "dThickness": 0.09,
+        "sGrade": NaN
+    },
+    {
+        "sName": "13 ga. stainless steel",
+        "dThickness": 0.09,
+        "sGrade": NaN
+    },
+    {
+        "sName": "14 ga. carbon steel",
+        "dThickness": 0.075,
+        "sGrade": NaN
+    },
+    {
+        "sName": "14 ga. galv. g90 steel",
+        "dThickness": 0.0785,
+        "sGrade": NaN
+    },
+    {
+        "sName": "14 ga. stainless steel",
+        "dThickness": 0.075,
+        "sGrade": NaN
+    },
+    {
+        "sName": "14ga steel",
+        "dThickness": 0.078,
+        "sGrade": NaN
+    },
+    {
+        "sName": "16 ga. carbon steel",
+        "dThickness": 0.06,
+        "sGrade": NaN
+    },
+    {
+        "sName": "16 ga. stainless steel",
+        "dThickness": 0.06,
+        "sGrade": NaN
+    },
+    {
+        "sName": "16ga steel",
+        "dThickness": 0.0625,
+        "sGrade": NaN
+    },
+    {
+        "sName": "18 ga aluminized steel",
+        "dThickness": 0.048,
+        "sGrade": NaN
+    },
+    {
+        "sName": "18 ga. carbon steel",
+        "dThickness": 0.048,
+        "sGrade": NaN
+    },
+    {
+        "sName": "18 ga. stainless steel",
+        "dThickness": 0.048,
+        "sGrade": NaN
+    },
+    {
+        "sName": "20 ga. carbon steel",
+        "dThickness": 0.035,
+        "sGrade": NaN
+    },
+    {
+        "sName": "20 ga. stainless steel",
+        "dThickness": 0.04,
+        "sGrade": NaN
+    },
+    {
+        "sName": "20ga-spring steel",
+        "dThickness": 0.036,
+        "sGrade": NaN
+    },
+    {
+        "sName": "24 ga. carbon steel",
+        "dThickness": 0.0239,
+        "sGrade": NaN
+    },
+    {
+        "sName": "3/16\" 7 ga carbon steel",
+        "dThickness": 0.175,
+        "sGrade": NaN
+    },
+    {
+        "sName": "3/16\" stainless steel plate",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "3/4\" carbon steel plate",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "3/4\" stainless steel plate",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "3/8\" carbon steel plate",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "3/8\" mild steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "3/8\" stainless steel plate",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "3/8-4130-tooling steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "3/8-4140 steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel",
+        "dThickness": 0.059,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel",
+        "dThickness": 0.119,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel",
+        "dThickness": 0.179,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel - 1/4\" -",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel - 3/16\" -",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel - 3/8\" -",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel 10ga -",
+        "dThickness": 0.1345,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel 12ga -",
+        "dThickness": 0.1046,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304 stainless steel 20ga -",
+        "dThickness": 0.036,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304/2b stainless steel",
+        "dThickness": 0.0276,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304/2b stainless steel",
+        "dThickness": 0.0354,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304/2b stainless steel",
+        "dThickness": 0.0472,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304/2b stainless steel",
+        "dThickness": 0.0591,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304/2b stainless steel",
+        "dThickness": 0.063,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304/2b stainless steel",
+        "dThickness": 0.0787,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304/2b stainless steel",
+        "dThickness": 0.1181,
+        "sGrade": NaN
+    },
+    {
+        "sName": "304/2b stainless steel",
+        "dThickness": 0.1969,
+        "sGrade": NaN
+    },
+    {
+        "sName": "316 stainless steel",
+        "dThickness": 0.059,
+        "sGrade": NaN
+    },
+    {
+        "sName": "316 stainless steel",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "316 stainless steel",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "316 stainless steel",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "316 stainless steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "316 stainless steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "316 stainless steel - 1/4\" -",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "316 stainless steel - 3/16\" -",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "5/16\" carbon steel plate",
+        "dThickness": 0.312,
+        "sGrade": NaN
+    },
+    {
+        "sName": "5/16\" stainless steel plate",
+        "dThickness": 0.3125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "5/8\" carbon steel plate",
+        "dThickness": 0.625,
+        "sGrade": NaN
+    },
+    {
+        "sName": "5/8\" plate mild steel",
+        "dThickness": 0.625,
+        "sGrade": NaN
+    },
+    {
+        "sName": "62 - 304 stainless steel 18ga -",
+        "dThickness": 0.0478,
+        "sGrade": NaN
+    },
+    {
+        "sName": "66 - 304 stainless steel 10ga -",
+        "dThickness": 0.1345,
+        "sGrade": NaN
+    },
+    {
+        "sName": "67 - 304 stainless steel - 1/8\" -",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "69 - 304 stainless steel - 1/4\" -",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "7 ga stainless steel",
+        "dThickness": 0.177,
+        "sGrade": NaN
+    },
+    {
+        "sName": "7 ga stainless steel",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": "71 - 304 stainless steel - 1/2\" -",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "74 - 304 stainless steel - 1\" -",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "7g steel w/ox",
+        "dThickness": 0.1793,
+        "sGrade": NaN
+    },
+    {
+        "sName": "80k steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a1011 , gr.50  (10 ga ) steel",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a1011 , gr.50 (11 ga ) steel",
+        "dThickness": 0.12,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a1011 , gr.50 (14 ga ) steel",
+        "dThickness": 0.075,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a1011 , gr.50 (7 ga.)  steel",
+        "dThickness": 0.179,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a1011 , gr.50 (8 ga) steel",
+        "dThickness": 0.164,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a1011 , gr.80  (11 ga ) steel ",
+        "dThickness": 0.12,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a1011 , gr.80  (7 ga.)  steel",
+        "dThickness": 0.1793,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a1011 , gr.80 (7 ga.)  steel",
+        "dThickness": 0.179,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a1011-01 gr 45 steel",
+        "dThickness": 0.154,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a1011-type-b (11 ga ) steel",
+        "dThickness": 0.1196,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a1011-type-b (14 ga) steel",
+        "dThickness": 0.0747,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a1101 cs gr.b steel",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a2 tool steel",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a2 tool steel",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a2 tool steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a2 tool steel",
+        "dThickness": 1.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-283 gr b steel",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-283 steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a285  steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 (10 ga ) steel",
+        "dThickness": 0.1345,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 (10 ga ) steel",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 (11 ga ) steel",
+        "dThickness": 0.1196,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 (12 ga.) steel",
+        "dThickness": 0.1046,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 (14 ga) steel",
+        "dThickness": 0.0747,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 (16 ga.) steel",
+        "dThickness": 0.0598,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 (18 ga ) steel",
+        "dThickness": 0.048,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 (20 ga ) steel",
+        "dThickness": 0.036,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 (28 ga ) steel",
+        "dThickness": 0.0149,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 (7 ga) steel",
+        "dThickness": 0.1793,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a36 steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a36 steel",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 steel",
+        "dThickness": 0.03,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 steel",
+        "dThickness": 0.09,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 steel",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 steel",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 steel",
+        "dThickness": 0.3125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 steel",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 steel",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-36 steel",
+        "dThickness": 1.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-514 (t-1) steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-514 (t-1) steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-516 , gr.70 steel",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-516 , gr.70 steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-516 , gr.70 steel",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-572 , gr. 50 (8 ga) steel",
+        "dThickness": 0.164,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-572 , gr. 50 steel",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-572 , gr. 50 steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-572 , gr. 50 steel",
+        "dThickness": 0.3125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a-572 , gr. 50 steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a656 , gr. 80 steel",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a656 , gr. 80 steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a656 , gr. 80 steel",
+        "dThickness": 0.313,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a656 , gr. 80 steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a656 , gr.80 steel",
+        "dThickness": 0.3125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "a656 , gr.80 steel (11 ga)",
+        "dThickness": 0.1196,
+        "sGrade": NaN
+    },
+    {
+        "sName": "ar-225 steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "ar-400 steel",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": "ar-400 steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "ar-400 steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.0375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.06,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.0625,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.063,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.0897,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.09,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.12,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.312,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.3125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.625,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 0.875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 1.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 1.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 2.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "astm a36 steel",
+        "dThickness": 2.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "c4x5.4 4\" c-channel, mild steel",
+        "dThickness": 4.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "c6x8.2 6\" c-channel, mild steel",
+        "dThickness": 6.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.059,
+        "sGrade": NaN
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.074,
+        "sGrade": NaN
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.1,
+        "sGrade": NaN
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.13,
+        "sGrade": NaN
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.3125,
+        "sGrade": "A36"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.375,
+        "sGrade": "Maxwear 235"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.375,
+        "sGrade": "Maxwear 400"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.5,
+        "sGrade": "Maxwear 235"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.5,
+        "sGrade": "Maxwear 400"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.625,
+        "sGrade": "A36"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 0.75,
+        "sGrade": "Maxwear 235"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 1.25,
+        "sGrade": "A514 Gr.B"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 1.25,
+        "sGrade": "Hardox 500"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 1.25,
+        "sGrade": "Maxwear 400"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 1.5,
+        "sGrade": "A514 Gr.H"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 2.0,
+        "sGrade": "A514 Gr.H"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 2.375,
+        "sGrade": "Maxwear 400"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 2.5,
+        "sGrade": "A514 Gr.S"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 3.0,
+        "sGrade": "A514 Gr.Q"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 3.0,
+        "sGrade": "Maxwear 400"
+    },
+    {
+        "sName": "carbon steel",
+        "dThickness": 3.25,
+        "sGrade": "A514 Gr.S"
+    },
+    {
+        "sName": "carbon steel 1/4\"",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "carbon steel 10 gage",
+        "dThickness": 0.1345,
+        "sGrade": NaN
+    },
+    {
+        "sName": "carbon steel generic (hard)",
+        "dThickness": 0.2,
+        "sGrade": NaN
+    },
+    {
+        "sName": "carbon steel generic (hard)",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "corten steel",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": "corten steel (11 ga)",
+        "dThickness": 0.1196,
+        "sGrade": NaN
+    },
+    {
+        "sName": "diamond plate  a36 steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "galvanised steel",
+        "dThickness": 0.06,
+        "sGrade": NaN
+    },
+    {
+        "sName": "galvanised steel",
+        "dThickness": 0.08,
+        "sGrade": NaN
+    },
+    {
+        "sName": "galvanised steel",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "galvanized steel",
+        "dThickness": 0.034,
+        "sGrade": NaN
+    },
+    {
+        "sName": "galvanized steel",
+        "dThickness": 0.056,
+        "sGrade": NaN
+    },
+    {
+        "sName": "galvanized steel",
+        "dThickness": 0.07,
+        "sGrade": NaN
+    },
+    {
+        "sName": "galvanized steel",
+        "dThickness": 0.097,
+        "sGrade": NaN
+    },
+    {
+        "sName": "galvanized steel",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "galvanized steel",
+        "dThickness": 0.126,
+        "sGrade": NaN
+    },
+    {
+        "sName": "galvanized steel",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "galvanized steel",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "galvanized steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "gr50 steel",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "hr gr 60 steel",
+        "dThickness": 0.177,
+        "sGrade": NaN
+    },
+    {
+        "sName": "hr gr steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "hr min yield steel",
+        "dThickness": 0.12,
+        "sGrade": NaN
+    },
+    {
+        "sName": "l2x2x.250 angle, mild steel",
+        "dThickness": 2.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.002,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.0149,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.018,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.02,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.0239,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.0313,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.0358,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.0359,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.0394,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.0472,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.0478,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.048,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.048,
+        "sGrade": "A1011 CSB SCS"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.06,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.06,
+        "sGrade": "A1011 CSB SCS"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.063,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.067,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.0747,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.075,
+        "sGrade": "A1011 CSB SCS"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.0787,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.08,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.0897,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.0984,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.1046,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.105,
+        "sGrade": "A1011 CSB SCS"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.1181,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.1196,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.12,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.12,
+        "sGrade": "A1011 CSB SCS"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.12,
+        "sGrade": "MS"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.134,
+        "sGrade": "MS."
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.1345,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.135,
+        "sGrade": "A1011 CSB SCS"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.1575,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.179,
+        "sGrade": "A1011 CSB SCS"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.1793,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.187,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.1875,
+        "sGrade": "A-36 SCS SL"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.188,
+        "sGrade": "A-36 SCS SL"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.1969,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.2362,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.2362,
+        "sGrade": "250 Grade"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.25,
+        "sGrade": "A36"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.25,
+        "sGrade": "A-36 SCS SL"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.25,
+        "sGrade": "MS."
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.312,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.3125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.313,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.313,
+        "sGrade": "A-36 SCS SL"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.315,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.315,
+        "sGrade": "250 Grade"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.375,
+        "sGrade": "A-36 SCS SL"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.3875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.3937,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.3937,
+        "sGrade": "250 Grade"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.3937,
+        "sGrade": "350 Grade"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.4724,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.5,
+        "sGrade": "A-36 SCS SL"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.5906,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.625,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.625,
+        "sGrade": "A-36 SCS SL"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.6299,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.75,
+        "sGrade": "A-36 SCS SL"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.7874,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.8661,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 0.9843,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 1.0,
+        "sGrade": "A-36 SCS SL"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 1.1024,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 1.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 1.25,
+        "sGrade": "A-36 SCS SL"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 1.2598,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 1.5,
+        "sGrade": "A-36 SCS SL"
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 1.5748,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 1.9685,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 2.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 2.3622,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 2.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 3.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel",
+        "dThickness": 3.1496,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel (a36)",
+        "dThickness": 0.2,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel (a36)",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel (a36)",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel (a36)",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel (a36)",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel (a36)",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel (a36)",
+        "dThickness": 2.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "mild steel tread plate",
+        "dThickness": 0.075,
+        "sGrade": "A1011 CSB SCS"
+    },
+    {
+        "sName": "o1 tool steel",
+        "dThickness": 0.063,
+        "sGrade": NaN
+    },
+    {
+        "sName": "perf steel",
+        "dThickness": 0.035,
+        "sGrade": NaN
+    },
+    {
+        "sName": "perforated 316 stainless steel",
+        "dThickness": 0.0217,
+        "sGrade": NaN
+    },
+    {
+        "sName": "perforated 316 stainless steel",
+        "dThickness": 0.0591,
+        "sGrade": NaN
+    },
+    {
+        "sName": "pl 1/2\" steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "pl 1/4\" steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "pl 3/8\" steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "s-7 tool steel",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "s-7 tool steel",
+        "dThickness": 0.875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "spring steel",
+        "dThickness": 0.015,
+        "sGrade": NaN
+    },
+    {
+        "sName": "spring steel",
+        "dThickness": 0.025,
+        "sGrade": NaN
+    },
+    {
+        "sName": "spring steel",
+        "dThickness": 0.042,
+        "sGrade": NaN
+    },
+    {
+        "sName": "spring steel",
+        "dThickness": 0.05,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.002,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.005,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.018,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.02,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.03,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.0313,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.0358,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.0359,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.0478,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.05,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.0598,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.06,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.063,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.067,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.0747,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.075,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.078,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.08,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.0897,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.1046,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.105,
+        "sGrade": "304"
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.1051,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.109,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.109,
+        "sGrade": "304"
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.1196,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.1252,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.1345,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.135,
+        "sGrade": "304-2B"
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.1385,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.1793,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.3125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.313,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.3752,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.63,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel (304)",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel (304)",
+        "dThickness": 0.2,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel (304)",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel (304)",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel (304)",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel (304)",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel (304)",
+        "dThickness": 1.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel (304)",
+        "dThickness": 1.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel (304)(12ga)",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel (304)(7ga)",
+        "dThickness": 0.2,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel 304",
+        "dThickness": 0.06,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel 304",
+        "dThickness": 0.083,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel 304",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": "stainless steel plate",
+        "dThickness": 0.25,
+        "sGrade": "316"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.024,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.03,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.03,
+        "sGrade": "A1011"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.036,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.0394,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.0394,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.04,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.04,
+        "sGrade": "C1010 COLD ROLLED SHEET"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.0472,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.048,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.0591,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.0591,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.06,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.0625,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.063,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.074,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.075,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.075,
+        "sGrade": "CA LAMINA"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.078,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.0787,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.0787,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.0787,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.08,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.08,
+        "sGrade": "A1011"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.098,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.0984,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.0984,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.109,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1181,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1181,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1181,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1181,
+        "sGrade": "GR450"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1181,
+        "sGrade": "HT80"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.12,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.12,
+        "sGrade": "A1011"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.134,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.14,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1575,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1575,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1575,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1575,
+        "sGrade": "HT80"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.16,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.179,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.187,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.187,
+        "sGrade": "A36"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.188,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.188,
+        "sGrade": "A1011"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.188,
+        "sGrade": "A36 HR"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.188,
+        "sGrade": "A36 HRPO TEMPASS"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1969,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1969,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1969,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1969,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1969,
+        "sGrade": "High Tensile"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1969,
+        "sGrade": "HT80"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.1969,
+        "sGrade": "W400"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.22,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.2362,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.2362,
+        "sGrade": "BISALLOY 80 STEEL PLATE ASTM A514"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.2362,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.2362,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.2362,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.2362,
+        "sGrade": "HT80"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.2362,
+        "sGrade": "W400"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.25,
+        "sGrade": "A36 HRPO TEMPASS"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.312,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.312,
+        "sGrade": "A1011"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.312,
+        "sGrade": "A36 HRPO TEMPASS"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.312,
+        "sGrade": "C1075 ANNEALED"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.315,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.315,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.315,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.315,
+        "sGrade": "HT80"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.375,
+        "sGrade": "A36 HR"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.375,
+        "sGrade": "C1008 HRPO"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.3937,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.3937,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.3937,
+        "sGrade": "GR250 STEEL PLATE AS/NZS 3678"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.3937,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.3937,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.3937,
+        "sGrade": "GR450"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.3937,
+        "sGrade": "HT80"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.3937,
+        "sGrade": "W400"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.4724,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.4724,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.4724,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.4724,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.4724,
+        "sGrade": "GR450"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.4724,
+        "sGrade": "HT80"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.4724,
+        "sGrade": "W400"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.5,
+        "sGrade": "A36 HR"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.625,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.625,
+        "sGrade": "A36 HR"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.6299,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.6299,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.6299,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.6299,
+        "sGrade": "GR450"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.6299,
+        "sGrade": "HT80"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.6299,
+        "sGrade": "W400"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.63,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.7874,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.7874,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.7874,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.7874,
+        "sGrade": "GR350 STEEL PLATE AS/NZS 3678 350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.7874,
+        "sGrade": "GR450"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.7874,
+        "sGrade": "HT80"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.9843,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.9843,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.9843,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.9843,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.9843,
+        "sGrade": "GR450"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.9843,
+        "sGrade": "HT80"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 0.9843,
+        "sGrade": "W400"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.2598,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.2598,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.2598,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.2598,
+        "sGrade": "HT80"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.2598,
+        "sGrade": "W400"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.5748,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.5748,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.5748,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.5748,
+        "sGrade": "HT80"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.7717,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.9685,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.9685,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.9685,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 1.9685,
+        "sGrade": "HT80"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 2.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 2.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 2.3622,
+        "sGrade": "GR250"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 2.3622,
+        "sGrade": "GR300"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 2.3622,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 2.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 2.51,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 2.5197,
+        "sGrade": "GR350"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 2.5197,
+        "sGrade": "HT80"
+    },
+    {
+        "sName": "steel",
+        "dThickness": 2.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 3.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel",
+        "dThickness": 6.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, 304 stainless",
+        "dThickness": 0.032,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, 304 stainless",
+        "dThickness": 0.04,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, 304 stainless",
+        "dThickness": 0.0625,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, 304 stainless",
+        "dThickness": 0.075,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, 304 stainless",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, 304 stainless",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, 410 stainless",
+        "dThickness": 0.032,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, 410 stainless",
+        "dThickness": 0.04,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 0.0478,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 0.0598,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 0.0897,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 0.1046,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 0.1196,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 0.1345,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 1.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a36",
+        "dThickness": 1.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a572 gr 50",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a572 gr 50",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a572 gr 50",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a572 gr 50",
+        "dThickness": 1.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a572 gr 50",
+        "dThickness": 2.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, a572-50",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.04,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.0598,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.0625,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.0747,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.075,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.1046,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.12,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.1345,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.18,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.625,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 1.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 1.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 2.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 4.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, mild",
+        "dThickness": 6.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, t1",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel, t1",
+        "dThickness": 1.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1",
+        "dThickness": 0.177,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.031,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.047,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.05,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.062,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.075,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.078,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.08,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.091,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.1,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.105,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.115,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.125,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.135,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.187,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.1875,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.312,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.375,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.2",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.5",
+        "dThickness": 0.625,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.5",
+        "dThickness": 0.75,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.5",
+        "dThickness": 1.0,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-1.7",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-2.0",
+        "dThickness": 0.035,
+        "sGrade": NaN
+    },
+    {
+        "sName": "steel-2.0",
+        "dThickness": 0.05,
+        "sGrade": NaN
+    },
+    {
+        "sName": "tool steel",
+        "dThickness": 0.125,
+        "sGrade": "D2"
+    },
+    {
+        "sName": "tool steel",
+        "dThickness": 0.19,
+        "sGrade": "D2"
+    },
+    {
+        "sName": "tool steel",
+        "dThickness": 0.25,
+        "sGrade": NaN
+    },
+    {
+        "sName": "tool steel",
+        "dThickness": 0.5,
+        "sGrade": NaN
+    },
+    {
+        "sName": "tread grip ladder rung 13 gauge steel",
+        "dThickness": 0.1575,
+        "sGrade": NaN
+    }
+]
