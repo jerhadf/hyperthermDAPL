@@ -18,6 +18,16 @@ The overarching purpose of this project is to reduce the environmental impact of
 * dbo.Nest - 3688620 - 3.7 million
 * dbo.AutoNest - 865559 - 865 thousand 
 
+SELECT COUNT(*) FROM dbo.Part => 30,970,284 rows 
+SELECT COUNT(*) FROM dbo.Nest => 8,711,803 rows 
+SELECT COUNT(*) FROM dbo.AutoNest => 1,911,518 rows 
+NUMBER OF DISTINCT JOBS: 
+SELECT COUNT(DISTINCT ixJobSummary) AS JobCount FROM dbo.Part => 2,637,599 jobs 
+SELECT COUNT(DISTINCT ixJobSummary) AS JobCount FROM dbo.Nest => 3,688,620 jobs 
+NUMBER OF JOBS SHARED BETWEEN dbo.NEST & dbo.Part => 2,537,550 
+Jobs in dbo.Part but not in dbo.Nest => 49 
+Jobs in dbo.Nest but not in dbo.Part => 1,051,070 
+
 ## Tasks 
 
 
