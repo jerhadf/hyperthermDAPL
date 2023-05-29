@@ -30,6 +30,18 @@ Jobs in dbo.Nest but not in dbo.Part => 1,051,070
 
 ## Tasks 
 
+## Feature Engineering 
+* The `feature_selection` folder contains the SQL scripts used to select features for the project. Most of them are just trials or attempts and are not used in the final project.
+* `feature_selection/feature_select_filter.sql` - SQL script to filter out features that are not useful for the project. 
+* **Filtering applied in this script: **
+  * Only include jobs where there are at least two nests (fn.NestCount > 1)
+  * Include only rectangular plates. n.ixPlateType IN (0, 1) to include circular plates (1)
+  * Exclude nests with safe zones (ensure n.cSafeZone = 0)
+  * Exclude multi-torch jobs (ensure n.cMaxTorches <= 1)
+  * Exclude jobs without any cuts (where cTimesCut = 0)
+  * Exclude jobs where dSheetArea is 0 
+  * Exclude jobs that are not from the right ProNest software versions 
+* Test 
 
 ## Results
 * Data cleaning 
