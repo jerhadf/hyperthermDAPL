@@ -55,6 +55,7 @@ SELECT TOP 10000
     p.dLgExtConArea, 
     p.dLgExtConBoundaryDist, 
     p.dLgExtConContainedDist,
+    -- below - from Nesting, may not need as features
     fn.cTimesCut,
     fn.fOutput,
     fn.cParts, 
