@@ -1,3 +1,25 @@
+/* 
+FINAL FEATURE SELECTION SCRIPT 
+
+Selects all of the columns needed for our training data 
+Performs all of the basic filtering operations to select only the data needed
+
+OUTPUT: 15,397,214 rows from the database (~100 million rows originally, so this is ~15%). 
+
+TO GET THE RESULTS: 
+SELECT * FROM dbo.Features --> exporting the resulting table as a .csv file 
+ 
+SELECT COUNT(*) FROM dbo.Part => 30,970,284 rows 
+SELECT COUNT(*) FROM dbo.Nest => 8,711,803 rows 
+SELECT COUNT(*) FROM dbo.AutoNest => 1,911,518 rows 
+NUMBER OF DISTINCT JOBS: 
+SELECT COUNT(DISTINCT ixJobSummary) AS JobCount FROM dbo.Part => 2,637,599 jobs 
+SELECT COUNT(DISTINCT ixJobSummary) AS JobCount FROM dbo.Nest => 3,688,620 jobs 
+NUMBER OF JOBS SHARED BETWEEN dbo.NEST & dbo.Part => 2,537,550 
+Jobs in dbo.Part but not in dbo.Nest => 49 
+Jobs in dbo.Nest but not in dbo.Part => 1,051,070 
+*/ 
+
 -- Define the CTE that will find the first nest (minimum ixNest) for each job (ixJobSummary)
 WITH FirstNest AS (
     -- also count the number of distinct nests within the job as NestCount (used later)
@@ -20,7 +42,7 @@ FilteredNest AS (
 )
 
 -- Main query starts here, selecting from the dbo.Part table
-SELECT
+SELECT TOP 10000
     p.ixJobSummary,
     fn.ixNest,
     p.ixPart,
@@ -57,7 +79,7 @@ SELECT
     -- n.dCropUtil, -- utilization - the same as the above, slightly less precise 
     an.ixAutoNestStrategy,
     an.fAllPartsNested
-INTO Features -- specify your table name here
+-- INTO Features -- specify your table name here
 FROM dbo.Part p
 -- Perform an INNER JOIN with the FilteredNest CTE, using the ixJobSummary column for the join condition
 INNER JOIN FilteredNest fn ON p.ixJobSummary = fn.ixJobSummary
@@ -72,4 +94,4 @@ INNER JOIN dbo.Product pr ON pr.ixProduct = pv.ixProduct
 WHERE
     -- Add product specifications - only include certain ProNest softwares 
     pr.sName IS NULL 
-    OR (pr.sName LIKE 'ProNest%' AND pr.sName NOT LIKE '%LT%' AND pr.ixProductType = 0);
+    OR (pr.sName LIKE 'ProNest%' AND pr.sName NOT LIKE '%LT%' AND pr.ixProductType = 0); 
