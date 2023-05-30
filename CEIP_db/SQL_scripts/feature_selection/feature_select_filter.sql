@@ -10,7 +10,7 @@ TO GET THE RESULTS:
 SELECT * FROM dbo.Features --> exporting the resulting table as a .csv file 
 */ 
 
--- Define the CTE that will find the first AutoNest (minimum ixAutoNest) for each job (ixJobSummary)
+-- Define the CTE that will find the first AutoNest (minimum ixAutoNesStrategy) for each job (ixJobSummary)
 WITH FirstAutoNest AS (
     SELECT js.ixJobSummary, MIN(an.ixAutoNest) AS MinAutoNest, an.ixAutoNestStrategy, an.fAllPartsNested
     FROM dbo.AutoNest an
@@ -37,7 +37,7 @@ FilteredNest AS (
     AND n.dArea <> 0 -- Exclude jobs where dSheetArea is 0
 )
 -- Main query (selecting columns) starts here
-SELECT TOP 10000
+SELECT
     p.ixJobSummary,
     fn.ixNest,
     p.ixPart,
