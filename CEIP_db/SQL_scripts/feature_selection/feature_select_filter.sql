@@ -76,6 +76,7 @@ SELECT TOP 10000
     -- add in the columns from the AutoNest table 
     fnan.ixAutoNestStrategy,
     fnan.fAllPartsNested
+INTO TrainingData
 FROM dbo.Part p
 INNER JOIN FilteredNest fn ON p.ixJobSummary = fn.ixJobSummary
 INNER JOIN FirstAutoNest fnan ON p.ixJobSummary = fnan.ixJobSummary

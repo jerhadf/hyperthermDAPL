@@ -1,5 +1,5 @@
 /* 
-FINAL FEATURE SELECTION SCRIPT 
+SEMI-FINAL FEATURE SELECTION SCRIPT (5th iteration)
 
 Selects all of the columns needed for our training data 
 Performs all of the basic filtering operations to select only the data needed
