@@ -139,8 +139,8 @@ CEIP Database/Database/CEIP-March10_2017.bak
 # remove csvs 
 *.csv
 
-# keep the ml_data .csv and the other small ones 
-!CEIP_csv/ml_data.csv
+# # keep the ml_data .csv and the other small ones 
+# !CEIP_csv/ml_data.csv
 
 # remove .bacpac
 *.bacpac
