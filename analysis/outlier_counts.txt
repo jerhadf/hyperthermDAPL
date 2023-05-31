@@ -1,0 +1,227 @@
+# counts the values to be removed for each column 
+dLgIntArea:
+  Negative Values: 0
+  Large Values: 40187
+  Outliers: 701390
+  Infinity Values: 0
+
+fStrat_IntelliNest:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 313332
+  Infinity Values: 0
+
+fStrat_Strategy3:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 76083
+  Infinity Values: 0
+
+dSheetLength:
+  Negative Values: 0
+  Large Values: 21109
+  Outliers: 263120
+  Infinity Values: 0
+
+fStrat_Strategy4:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 987912
+  Infinity Values: 0
+
+dLgExtConBoundaryDist:
+  Negative Values: 0
+  Large Values: 38613
+  Outliers: 331313
+  Infinity Values: 0
+
+fStrat_ICProfileNesting:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 697235
+  Infinity Values: 0
+
+fStrat_Strategy9:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 60085
+  Infinity Values: 0
+
+dExtBoundaryDist:
+  Negative Values: 0
+  Large Values: 40726
+  Outliers: 314504
+  Infinity Values: 0
+
+fStrat_Strategy6:
+  Negative Values: 0
+  Large Values: 37818
+  Outliers: 37818
+  Infinity Values: 0
+
+dLgIntContainedDist:
+  Negative Values: 0
+  Large Values: 40041
+  Outliers: 631853
+  Infinity Values: 0
+
+dLgIntBoundaryDist:
+  Negative Values: 0
+  Large Values: 40719
+  Outliers: 703890
+  Infinity Values: 0
+
+fStrat_Strategy5:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 99022
+  Infinity Values: 0
+
+dExtArea:
+  Negative Values: 0
+  Large Values: 40725
+  Outliers: 566462
+  Infinity Values: 0
+
+dLgExtConContainedDist:
+  Negative Values: 0
+  Large Values: 40723
+  Outliers: 333756
+  Infinity Values: 0
+
+fStrat_Strategy10:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 272571
+  Infinity Values: 0
+
+fStrat_ICPatternFill:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 391337
+  Infinity Values: 0
+
+fStrat_Strategy8:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 46291
+  Infinity Values: 0
+
+fStrat_Strategy1:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 276538
+  Infinity Values: 0
+
+fStrat_ManualNesting:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 279737
+  Infinity Values: 0
+
+fStrat_BlockNesting:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 58917
+  Infinity Values: 0
+
+dExtContainedDist:
+  Negative Values: 0
+  Large Values: 40720
+  Outliers: 391737
+  Infinity Values: 0
+
+dSheetArea:
+  Negative Values: 0
+  Large Values: 39036
+  Outliers: 107432
+  Infinity Values: 0
+
+fStrat_Strategy2:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 41495
+  Infinity Values: 0
+
+fStrat_None:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 352084
+  Infinity Values: 0
+
+dSheetWidth:
+  Negative Values: 0
+  Large Values: 24548
+  Outliers: 320999
+  Infinity Values: 0
+
+dPartTrueArea:
+  Negative Values: 13
+  Large Values: 40691
+  Outliers: 565130
+  Infinity Values: 0
+
+calcUtil:
+  Negative Values: 13
+  Large Values: 40522
+  Outliers: 210884
+  Infinity Values: 0
+
+fStrat_BlockOptimization:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 41814
+  Infinity Values: 0
+
+dLgExtConArea:
+  Negative Values: 0
+  Large Values: 40722
+  Outliers: 333751
+  Infinity Values: 0
+
+fStrat_Strategy7:
+  Negative Values: 0
+  Large Values: 40244
+  Outliers: 40244
+  Infinity Values: 0
+
+fExtShape:
+  Negative Values: 0
+  Large Values: 0
+  Outliers: 558809
+  Infinity Values: 0
+
+Column dLgIntArea - outliers removed: 595286
+Column fStrat_IntelliNest - outliers removed: 276587
+Column fStrat_Strategy3 - outliers removed: 61785
+Column dSheetLength - outliers removed: 1877
+Column fStrat_Strategy4 - outliers removed: 0
+Column dLgExtConBoundaryDist - outliers removed: 244045
+Column fStrat_ICProfileNesting - outliers removed: 546388
+Column fStrat_Strategy9 - outliers removed: 47168
+Column dExtBoundaryDist - outliers removed: 89139
+Column fStrat_Strategy6 - outliers removed: 27940
+Column dLgIntContainedDist - outliers removed: 79711
+Column dLgIntBoundaryDist - outliers removed: 336306
+Column fStrat_Strategy5 - outliers removed: 69715
+Column dExtArea - outliers removed: 140721
+Column dLgExtConContainedDist - outliers removed: 555
+Column fStrat_Strategy10 - outliers removed: 148343
+Column fStrat_ICPatternFill - outliers removed: 233057
+Column fStrat_Strategy8 - outliers removed: 25651
+Column fStrat_Strategy1 - outliers removed: 156583
+Column fStrat_ManualNesting - outliers removed: 161464
+Column fStrat_BlockNesting - outliers removed: 38347
+Column dExtContainedDist - outliers removed: 26159
+Column dSheetArea - outliers removed: 3868
+Column fStrat_Strategy2 - outliers removed: 23788
+Column fStrat_None - outliers removed: 0
+Column dSheetWidth - outliers removed: 2668
+Column dPartTrueArea - outliers removed: 28333
+Column calcUtil - outliers removed: 24
+Column fStrat_BlockOptimization - outliers removed: 18546
+Column dLgExtConArea - outliers removed: 0
+Column fStrat_Strategy7 - outliers removed: 23208
+Column fExtShape - outliers removed: 44930
+
+New number of rows in the DataFrame: 620323
