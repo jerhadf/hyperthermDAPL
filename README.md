@@ -9,6 +9,7 @@ Project title: Carbon emission reduction through better use of nesting algorithm
 
 ### Docs for the project
 * [Feature engineering doc](https://docs.google.com/document/d/1gGxdz6Rt-ZfFC753otcyBDhUmH_BHBFCZhgUyQKGBUE/edit?usp=sharing)
+* [Final Presentation](https://docs.google.com/presentation/d/1dStRV1ZOExTIJEzfsv0eXDAbw8WIKH-mX-2jgdKO9Rw/edit?usp=drive_link) 
 * Ask me directly for other docs at jhadfield129@gmail.com or jeremy.th@dartmouth.edu 
 ### Hypertherm
 Hypertherm was founded in 1968 and is headquartered in Hanover, NH. It has around 2,000 employees and is a 100% employee-owned company. The company has a strong global presence with operations and partner representation across several continents. It is a leading manufacturer of industrial cutting systems and software solutions. The company specializes in producing advanced plasma, laser, and waterjet cutting technologies, which are used in a variety of industries, from manufacturing to shipbuilding. Their innovative, diverse product portfolio of advanced tools and software help businesses precisely cut and shape materials for their specific needs, resulting in higher productivity, better product quality, and reduced operating costs. By integrating advanced cutting technologies with intelligent software solutions, Hypertherm helps businesses efficiently cut and shape steel, ultimately saving time, money, and resources.
